@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "CustomDev.Sample.AesCryptography": {
+      "commandName": "Project",
+      "commandLineArgs": "encrypt "
+    },
+    "Encrypt": {
+      "commandName": "Project",
+      "commandLineArgs": "encrypt test.txt test.txt.encrypted"
+    },
+    "Decrypt": {
+      "commandName": "Project",
+      "commandLineArgs": "decrypt test.txt.encrypted test_decrypted.txt"
+    }
+  }
+}

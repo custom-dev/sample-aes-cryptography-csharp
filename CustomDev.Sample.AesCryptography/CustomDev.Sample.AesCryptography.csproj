@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <StartupObject>CustomDev.Sample.AesCryptography.Program</StartupObject>
+    <Company>Custom Dev</Company>
+    <Authors>François DORIN</Authors>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/custom-dev/sample-aes-cryptography-csharp</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
